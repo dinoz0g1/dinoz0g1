@@ -43,3 +43,5 @@ Strong interest in how attacks generate logs, alerts, and effective response wor
 
 ### ATTACK → DETECTION FLOW
 Recon → Initial Access → Execution → Log Generated → SIEM Alert → Response
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinoz0g1&theme=dark&hide_border=true)](https://github.com/dinoz0g1)
