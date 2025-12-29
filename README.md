@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner-blue-cyber.png" />
+  <img src="https://raw.githubusercontent.com/dinoz0g1/dinoz0g1/main/assets/banner-blue-cyber.png" />
 </p>
 
 <h2 align="center">🛡️ Security Operations & Adversary Simulation</h2>
