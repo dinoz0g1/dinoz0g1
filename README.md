@@ -1,21 +1,38 @@
 <div align="center">
 
-![CYBER SECURITY OPERATIONS HEADER](https://aiflowreview.com/wp-content/uploads/2025/10/fortiai-cybersecurity-ops-center-ai-dashboard-87f06b5d.jpg.webp)
-
-<grok-card data-id="040700" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
+![CYBER SECURITY OPERATIONS HEADER](https://thumbs.dreamstime.com/b/data-analysts-monitoring-multiple-screens-dark-room-imagefx-showing-high-resolution-image-suitable-commercial-use-408488715.jpg)
 
 # CYBER SECURITY OPERATIONS
 
-### OPERATOR PROFILE — dinoz0g1
-**Cyber Security Practitioner** | SOC Analyst | Blue Team Defender | Threat Hunter  
+### <span style="border-right: .05em solid; animation: caret 1s steps(1) infinite;">OPERATOR PROFILE — dinoz0g1</span>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes caret {
+  50% { border-color: transparent; }
+}
+.typewriter {
+  overflow: hidden;
+  border-right: .05em solid #00ffea;
+  white-space: nowrap;
+  margin: 0 auto;
+  animation: typing 4s steps(40, end), caret 1s steps(1) infinite;
+  font-size: 1.2em;
+  color: #00ffea;
+}
+</style>
+
+<div class="typewriter">
+Cyber Security Practitioner | SOC Analyst | Blue Team Defender | Threat Hunter
+</div>
+
+<br>
+
 Focused on Security Operations Center (SOC) activities, threat detection engineering, log analysis, and red team simulation in controlled lab environments.  
 Passionate about turning raw logs into actionable intelligence.
-
-![SOC Dashboard View](https://img.freepik.com/premium-photo/futuristic-control-room-filled-with-numerous-monitors-displaying-data-surveillance-feeds-illustrate-futuristic-vision-cyber-security-operations-center_538213-63333.jpg)
-
-<grok-card data-id="71be9f" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
 
 ### CYBER STACK
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)
@@ -33,12 +50,9 @@ Passionate about turning raw logs into actionable intelligence.
 - Map adversary tactics to MITRE ATT&CK framework
 - Build & tune incident response playbooks
 
-> **"Red Team creates the signal. SOC turns it into intelligence."**
-
-![System Status Dashboard](https://thumbs.dreamstime.com/b/futuristic-cyber-security-operations-center-glowing-green-data-displays-high-tech-command-filled-screens-showing-complex-396379202.jpg)
-
-<grok-card data-id="ca2996" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
+<div class="typewriter" style="font-size:1.5em; margin:30px 0;">
+"Red Team creates the signal. SOC turns it into intelligence."
+</div>
 
 ### CAPABILITY MATRIX
 | Capability             | Proficiency          |
@@ -53,11 +67,6 @@ Passionate about turning raw logs into actionable intelligence.
 ### ATTACK → DETECTION FLOW
 **Recon** → **Initial Access** → **Execution** → **Log Generated** → **SIEM Alert** → **Triage & Response**
 
-![Attack Flow Visualization](https://static.vecteezy.com/system/resources/thumbnails/050/237/682/small_2x/futuristic-abstract-technology-big-data-streams-ultra-speed-with-line-circuit-on-dark-blue-background-vector.jpg)
-
-<grok-card data-id="e7c1d5" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
 ### LAB PROGRESS
 - [x] Basic SOC setup with Wazuh + ELK
 - [x] Brute-force & web attack detection rules
@@ -65,10 +74,7 @@ Passionate about turning raw logs into actionable intelligence.
 - [ ] Advanced threat hunting queries
 - [ ] Custom Sigma/YARA rules development
 
-![Terminal View](https://thumbs.dreamstime.com/b/abstract-dark-blue-technology-background-featuring-glowing-neon-horizontal-lines-digital-bokeh-dots-suitable-futuristic-420314552.jpg)
-
-<grok-card data-id="1fde4f" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
+![Terminal View](https://thumbs.dreamstime.com/b/cybersecurity-command-center-displays-real-time-data-futuristic-control-room-glows-vibrant-blue-red-hues-large-monitors-346056303.jpg)
 
 **SOC • Blue Team • Threat Detection • Cyber Defense**
 
