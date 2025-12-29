@@ -30,10 +30,13 @@ Strong interest in understanding how attacks generate logs, alerts, and effectiv
 + Analyze logs & network traffic (PCAP, Sysmon, etc.)
 + Map adversary behaviors to MITRE ATT&CK framework
 + Build and tune incident response workflows & playbooks
+```
 
-🔄 ATTACK → DETECTION FLOW
+---
+## 🔄 ATTACK → DETECTION FLOW
 Recon → Initial Access → Execution → Log Generated → SIEM Alert → Triage & Response
 
+---
 "Red Team creates the signal. SOC turns it into intelligence."
 
 
