@@ -1,27 +1,16 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner-blue-cyber.png" />
-</p>
-
 <h1 align="center">🟦 CYBER SECURITY OPERATIONS</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=SOC+Analyst;Blue+Team+Defender;Red+Team+Simulation;Threat+Detection;Attack+to+Detection" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=SOC+Analyst;Blue+Team+Defender;Red+Team+Simulation;Threat+Detection;Attack+to+Detection" />
 </p>
 
 ---
 
 ## 🧠 OPERATOR PROFILE
-> Defensive-minded security practitioner with hands-on experience in  
-> **SOC operations**, **threat detection**, and **red team attack simulation**.  
-> Focused on turning attacks into **actionable detections**.
+Cyber security practitioner focused on **Security Operations Center (SOC)** activities,  
+**threat detection engineering**, and **red team attack simulation** in controlled lab environments.  
+
+Strong interest in understanding how attacks generate logs, alerts, and response actions.
 
 ---
 
@@ -42,7 +31,8 @@
 
 ## 🎯 CORE MISSIONS
 ```diff
-+ Monitor & triage security alerts
++ Monitor & triage SOC alerts
 + Simulate attacks to validate detections
 + Analyze logs & network traffic
-+ Build SOC playbooks & IR workflows
++ Map attacks to MITRE ATT&CK
++ Build incident response workflows
