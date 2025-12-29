@@ -1,56 +1,48 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dinoz0g1/dinoz0g1/main/assets/banner-blue-cyber.png" />
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner-blue-cyber.png" />
 </p>
 
-<h2 align="center">🛡️ Security Operations & Adversary Simulation</h2>
+<h1 align="center">🟦 CYBER SECURITY OPERATIONS</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=1E90FF&center=true&vCenter=true&width=700&lines=SOC+Analyst;Blue+Team+Defender;Red+Team+Simulation;Attack+to+Detection" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=SOC+Analyst;Blue+Team+Defender;Red+Team+Simulation;Threat+Detection;Attack+to+Detection" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 👤 About Me
-Cyber Security practitioner with a strong focus on **Security Operations Center (SOC)** activities,  
-**threat detection**, and **red team attack simulation** in controlled lab environments.  
-Experienced in analyzing logs, validating alerts, and mapping attacks to **MITRE ATT&CK**.
+## 🧠 OPERATOR PROFILE
+> Defensive-minded security practitioner with hands-on experience in  
+> **SOC operations**, **threat detection**, and **red team attack simulation**.  
+> Focused on turning attacks into **actionable detections**.
 
 ---
 
-### 🔧 Security Stack
-- **OS**: Kali Linux, Ubuntu Server  
-- **SIEM**: Wazuh, ELK Stack  
-- **Network**: Wireshark, tcpdump  
-- **Red Team (Lab)**: Nmap, Burp Suite, Metasploit  
-- **Detection**: Sigma Rules, MITRE ATT&CK  
+## 🛠️ CYBER STACK
+<p align="center">
 
----
-
-### 🎯 Focus Areas
-- SOC Monitoring & Alert Triage  
-- Attack Simulation for Detection Validation  
-- Web Application Security (Lab-Based)  
-- Incident Response & Log Analysis  
-
----
-
-### 📂 Featured Projects
-- 🔵 **soc-detection-lab** — SOC simulation & alert analysis  
-- 🔴 **attack-to-detection** — offensive techniques mapped to detection  
-- 🛠️ **pentora** — pentest GUI & security tooling project  
-- 🧠 **threat-hunting-playbook** — blue team workflows  
-- 🧪 **ctf-writeups** — structured lab & CTF reports  
-
----
-
-### 🧩 Principles
-> “Offense generates data.  
-> Defense turns data into decisions.”
-
----
-
-### 🟦 Tags
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-0A4D8C)
 ![SOC](https://img.shields.io/badge/SOC-Operations-1E90FF)
-![RedTeam](https://img.shields.io/badge/Red%20Team-Lab%20Only-0A4D8C)
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-005C99)
+![ELK](https://img.shields.io/badge/ELK-Stack-0B3C5D)
+![RedTeam](https://img.shields.io/badge/Red%20Team-Lab%20Simulation-003366)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-1C3FAA)
+
+</p>
+
+---
+
+## 🎯 CORE MISSIONS
+```diff
++ Monitor & triage security alerts
++ Simulate attacks to validate detections
++ Analyze logs & network traffic
++ Build SOC playbooks & IR workflows
